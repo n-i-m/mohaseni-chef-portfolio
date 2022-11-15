@@ -9,7 +9,7 @@ image:
 
 Every household has its own kitchen secret passed down from generation to generation. Bring your spade and shovel and join me in digging the past!
 
-**Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
+**Pizza! Risotto! Pasta! Gelato**
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Wowchemy.
 
