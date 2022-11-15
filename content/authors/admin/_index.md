@@ -35,9 +35,7 @@ education:
     - course: Professional Cookery
       institution: Cible Ecole - Hotel Business, Cooking & Pastry School
       year: 2000
-    - course: 
-      institution: 
-      year: 
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
