@@ -18,13 +18,13 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A recipe has no soul. You, as the cook, must bring soul to the recipe -Thomas Keller-
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Creating new recipes
+  - Food arts
+  - Healthy food
 
 # Education to show in About widget
 education:
