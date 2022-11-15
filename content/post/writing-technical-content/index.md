@@ -1,5 +1,5 @@
 ---
-title: Writing technical content in Markdown
+title: Italian Kitchen's Secret
 date: 2019-07-12
 math: true
 image:
@@ -7,7 +7,7 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
+Every household has its own kitchen secret passed down from generation to generation. Bring your spade and shovel and join me in digging the past!
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
 
